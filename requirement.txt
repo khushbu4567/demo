@@ -1,0 +1,6 @@
+streamlit
+pandas
+mysql-connector-python
+openai  # Only include if you're using OpenAI or Groq-compatible LLMs
+requests
+groq
